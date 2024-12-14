@@ -1,0 +1,14 @@
+.description {
+    
+    margin: 20px 0;
+}
+
+.description h1 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.description p {
+    font-size: 1.2rem;
+    
+}
